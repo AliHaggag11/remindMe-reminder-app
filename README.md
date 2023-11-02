@@ -1,6 +1,4 @@
-![remind_me_thumbnail](https://github.com/Kliton/fullstack_remindMe_youtube_video/assets/10452377/39a757d3-1a79-4d70-b91e-deb9edb4b8c8)
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
